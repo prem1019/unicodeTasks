@@ -1,0 +1,37 @@
+.my-form{
+	padding:20px;
+}
+.form-group{
+	padding-bottom: 15px;
+}
+.my-form .form-group label{
+	display: block;
+	color: red;
+}
+.cont h1{
+	color: black;
+}
+
+.my-form input[type="submit"]{
+	background-color: #333;
+	color:#fff;
+	padding:10px 15px;
+	border:none}
+.button{
+	background-color: #333;
+	color:red;
+	padding:10px 15px;
+	border:none;
+}
+.my-form .form-group{
+     float:left;
+	width:33.3%;
+	border:1px solid #ccc;
+	padding:10px;
+	box-sizing: border-box;
+}
+.my-form input[type="text"], .my-form label{
+
+	padding: 8px;
+	width:100%;
+}
